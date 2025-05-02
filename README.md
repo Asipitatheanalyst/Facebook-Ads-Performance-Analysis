@@ -95,7 +95,8 @@ This project analyzes Facebook Ads campaign data from **Globalshala**, a global 
   - **UK** ($7.08)
   - **USA** ($5.04)
 
-    ![Facebook ads Dashboard](https://github.com/user-attachments/assets/c8c273b4-4775-4836-8607-fd8655f0d0d8)
+    ![Facebook ads Dashboard](https://github.com/user-attachments/assets/46fc5034-71ff-4d35-b91b-9ce9c33d2156)
+
 
 ---
 
